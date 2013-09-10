@@ -1,0 +1,24 @@
+body {
+	font-family: 'Ubuntu',sans-serif;
+}
+
+header {
+    background-image: linear-gradient(center bottom , #204a87 41%, #3465a4 68%);
+    background-image: -o-linear-gradient(center bottom , #204a87 41%, #3465a4 68%);
+    background-image: -moz-linear-gradient(center bottom , #204a87 41%, #3465a4 68%);
+    background-image: -webkit-linear-gradient(center bottom , #204a87 41%, #3465a4 68%);
+    background-image: -ms-linear-gradient(center bottom , #204a87 41%, #3465a4 68%);
+    height: 450px;
+    width: 100%;
+}
+
+header h2,p {
+	color: #FFF;
+	text-align: center;
+}
+
+#logo{
+	font-family: 'Aldrich', sans-serif;
+	font-size: 80px;
+	padding: 60px 0 20px;
+}
